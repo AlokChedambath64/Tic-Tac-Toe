@@ -9,6 +9,8 @@ Once in the directory for the project, run pip3 install -r requirements.txt to i
 
 # Running 
 python runner.py
+
+
 <img width="451" alt="image" src="https://github.com/AlokChedambath64/Tic-Tac-Toe/assets/110228030/63acef4b-2359-47dd-838c-adfb5051b296">
 
 <img width="450" alt="image" src="https://github.com/AlokChedambath64/Tic-Tac-Toe/assets/110228030/7675ae47-8735-40c0-8f40-42704402173b">
