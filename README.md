@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-GUI tic-tac-toe game with adversarial AI using Minimax algorithm.
+Tic-Tac-Toe game with adversarial AI using Minimax algorithm.
 
 There are two main files in this project: runner.py and tictactoe.py. tictactoe.py contains all of the logic for playing the game, and for making optimal moves.
 
